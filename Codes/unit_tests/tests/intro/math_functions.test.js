@@ -1,12 +1,12 @@
-// math_functions.test.js
+// math_functions.tests.js
 const { add, subtract } = require('../../intro/math_functions');
 
 /*
-test('adds 1 + 2 to equal 3', () => {
+tests('adds 1 + 2 to equal 3', () => {
     expect(add(1, 2)).toBe(3);
 });
 
-test('subtracts 5 - 2 to equal 3', () => {
+tests('subtracts 5 - 2 to equal 3', () => {
     expect(subtract(5, 2)).toBe(3);
 });
 
