@@ -52,3 +52,23 @@ Setup and Teardown:
 Run the tests with Jest:
 
     npm test
+
+**Quick Start**
+
+**1. Clone the repository if you didn't:**
+
+    git clone https://github.com/hrh2/NodeJsTestingJest.git
+then go in the following directory
+
+    cd NodeJsTestingJest/Codes/e2e
+
+
+
+**2. Install packages**
+
+    npm install
+
+Testing
+End-to-End tests  . To run the tests, use the following command:
+
+    npm  test

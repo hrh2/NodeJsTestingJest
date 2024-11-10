@@ -40,3 +40,24 @@ Run your tests using the npm test script
 
 **Note:**
 We provided multiple examples on unit testing  where   different units are  present in the intro and medium directories form the root  and each  unit has a respective test in the tests directory
+
+
+**Quick Start Guide**
+
+**1. Clone the repository if you didn't:**
+
+    git clone https://github.com/hrh2/NodeJsTestingJest.git
+then go in the following directory
+
+    cd NodeJsTestingJest/Codes/unit_tests
+
+
+
+**2. Install packages**
+
+    npm install
+
+Testing
+End-to-End tests  . To run the tests, use the following command:
+
+    npm  test
