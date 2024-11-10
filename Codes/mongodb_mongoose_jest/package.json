@@ -1,0 +1,22 @@
+{
+  "name": "mongodb_mongoose_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mongodb-memory-server": "^10.1.2",
+    "mongoose": "^8.8.1"
+  },
+  "jest": {
+    "setupFilesAfterEnv": ["./test-setup.js"]
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
