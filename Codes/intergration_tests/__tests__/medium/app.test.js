@@ -1,5 +1,5 @@
 const request = require('supertest');
-const app = require('../medium/app');
+const app = require('../../medium/app');
 
 describe('User API Integration Tests', () => {
     test('should create a new user', async () => {
