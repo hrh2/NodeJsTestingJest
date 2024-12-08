@@ -38,6 +38,6 @@ Then for each Directory do the following steps :
     npm install
 
 **Testing**\
-End-to-End tests  . To run the tests, use the following command:
+To run the tests in each  `Directory`, use the following command:
 
     npm  test   
